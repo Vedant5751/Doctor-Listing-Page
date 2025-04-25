@@ -71,7 +71,6 @@ This application uses environment variables for configuration:
 | ------------ | ---------------------------- | -------- |
 | VITE_API_URL | URL for the doctors data API | Yes      |
 
-
 ## Features in Detail
 
 ### Doctor Search
